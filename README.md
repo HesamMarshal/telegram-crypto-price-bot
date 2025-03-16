@@ -1,4 +1,4 @@
-# Nobitex Price Tracker Bot
+# Telegram Bot for Crypto Price Using Nobitex API
 
 ## 📌 Overview
 
